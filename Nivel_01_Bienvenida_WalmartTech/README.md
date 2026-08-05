@@ -1,13 +1,13 @@
-# Nivel 01 — Bienvenida a Walmart Global Tech
+# Nivel 01 — Bienvenido/a a Walmart Global Tech
 
-**Proyecto:** Desafío Walmart Tech
+**Proyecto:** Retos Walmart Tech CAM
 **Dificultad:** ⭐☆☆☆☆ Básico
 
 ---
 
 ## 🛒 La historia: Desafío Walmart Tech
 
-Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech**.
+Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech Centroamérica**.
 Su primer proyecto es un programa de entrenamiento de 25 niveles que lo llevará a
 recorrer, en código, toda la cadena de valor de la compañía: primero el piso de venta
 de una tienda, luego el **CEDIS** (Centro de Distribución) de su región, después la
@@ -21,7 +21,7 @@ problema real de Walmart Global Tech usando Java.
 
 ## 📍 Contexto de este nivel
 
-Hoy es el primer día de Alex en Walmart Global Tech. Antes de tocar cualquier sistema real, Recursos Humanos le pide completar el pequeño programa de bienvenida que se le entrega a todo nuevo desarrollador: debe imprimir su ficha de ingreso y la misión de la compañía en consola.
+Hoy es el primer día de Alex en Walmart Global Tech Centroamérica. Antes de tocar cualquier sistema real, Recursos Humanos le pide completar el pequeño programa de bienvenida que se le entrega a todo nuevo desarrollador: debe imprimir su ficha de ingreso y la misión de la compañía en consola.
 
 ## 🎯 Objetivo
 
@@ -51,5 +51,5 @@ Practicar la declaración de variables de distintos tipos (String, int, double) 
 Reto opcional: agrega una variable `boolean` que indique si Alex ya completó su inducción, e inclúyela en el mensaje.
 
 ---
-**Elaborado para la comunidad tech.** Este reto es un ejercicio educativo inspirado en
-problemas reales de retail/logística; no representa código ni datos reales de Walmart.
+**Elaborado para la comunidad tech.** Este reto es inspirado en
+problemas reales de retail/logística; NO representa código ni datos reales de Walmart.
