@@ -45,7 +45,7 @@ proyecto Java 100% independiente**: se puede compilar y ejecutar por separado.
 | 24 | Detección de fraude en transacciones | Heurísticas / scoring de riesgo | ⭐⭐⭐⭐⭐ |
 | 25 | Simulador integral de la cadena de suministro | Proyecto integrador (Grafos + Dijkstra + Knapsack + POO) | 🏆 |
 
-## Cómo jugar 
+## ¿Cómo jugar?
 
 1. Cloná o descargá el repositorio.
 2. Entrá a la carpeta del nivel que querás resolver.
