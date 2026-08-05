@@ -1,14 +1,12 @@
-# 🛒 Desafío Walmart Tech
+# 🛒 Retos Walmart Tech CAM
 
-Un mini-juego / entrenamiento de programación en Java: **25 niveles independientes**,
+Un mini-juego de programación en Java: **25 niveles independientes**,
 cada uno en su propia carpeta con su `Main.java` (con TODOs por resolver) y su
 `README.md` (contexto, objetivo, reglas y dificultad).
 
-Pensado para subirse tal cual a GitHub como repositorio de retos de código.
+## Historia
 
-## La historia
-
-Alex es contratado como desarrollador junior en **Walmart Global Tech** y atraviesa un
+Alex es contratado como desarrollador junior en **Walmart Global Tech Centroamérica** y atraviesa un
 programa de entrenamiento de 25 niveles que recorre, en código, la cadena de valor real
 de una empresa de retail: piso de tienda → CEDIS (Centro de Distribución) → logística
 regional → sistemas corporativos de análisis de datos a nivel nacional.
@@ -16,22 +14,6 @@ regional → sistemas corporativos de análisis de datos a nivel nacional.
 Todos los niveles están conectados por esta historia, pero **cada carpeta es un
 proyecto Java 100% independiente**: se puede compilar y ejecutar por separado.
 
-## Estructura del repositorio
-
-```
-Desafio_Walmart_Tech/
-├── README.md                                  (este archivo)
-├── Nivel_01_Bienvenida_WalmartTech/
-│   ├── Main.java
-│   └── README.md
-├── Nivel_02_Descuentos_Caja/
-│   ├── Main.java
-│   └── README.md
-├── ...
-└── Nivel_25_Simulador_Cadena_Suministro/
-    ├── Main.java
-    └── README.md
-```
 
 ## Mapa de niveles
 
@@ -63,22 +45,16 @@ Desafio_Walmart_Tech/
 | 24 | Detección de fraude en transacciones | Heurísticas / scoring de riesgo | ⭐⭐⭐⭐⭐ |
 | 25 | Simulador integral de la cadena de suministro | Proyecto integrador (Grafos + Dijkstra + Knapsack + POO) | 🏆 |
 
-## Cómo jugar / usar este repo
+## Cómo jugar 
 
-1. Clona o descarga el repositorio.
-2. Entra a la carpeta del nivel que quieras resolver (por ejemplo `Nivel_06_Ranking_Sucursales`).
+1. Cloná o descargá el repositorio.
+2. Entrá a la carpeta del nivel que querás resolver.
 3. Lee su `README.md` para entender el contexto, objetivo y reglas.
-4. Abre `Main.java` y resuelve los comentarios `// TODO`.
-5. Compila y corre:
-   ```
-   javac Main.java
-   java Main
-   ```
-6. ¡Avanza al siguiente nivel!
+4. Abre `Main.java` y resuelve.
+5. ¡Avanzá al siguiente nivel!
 
 ## Contribuir / comunidad
 
-Este proyecto está pensado para compartirse y mejorarse con la comunidad: agrega tus
-soluciones en un fork, propón retos opcionales extra, o comparte tu progreso. Es un
-ejercicio educativo inspirado en problemas reales de retail/logística; no representa
-código, datos ni sistemas reales de Walmart.
+Este proyecto está pensado para compartirse y mejorarse con la comunidad: agregá tus
+soluciones en un fork, proponé retos opcionales extra, o compartí tu progreso. Estos retos NO representan
+códigos, datos ni sistemas reales de Walmart.
