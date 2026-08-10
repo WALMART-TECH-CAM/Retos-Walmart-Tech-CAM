@@ -7,7 +7,7 @@
 
 ## 🛒 La historia: Desafío Walmart Tech
 
-Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech**.
+Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech Centroamérica**.
 Su primer proyecto es un programa de entrenamiento de 25 niveles que lo llevará a
 recorrer, en código, toda la cadena de valor de la compañía: primero el piso de venta
 de una tienda, luego el **CEDIS** (Centro de Distribución) de su región, después la
@@ -53,4 +53,4 @@ Reto opcional: agrega una tercera condición: si el monto de compra supera $1000
 
 ---
 **Elaborado para la comunidad tech.** Este reto es un ejercicio educativo inspirado en
-problemas reales de retail/logística; no representa código ni datos reales de Walmart.
+problemas reales de retail/logística; NO representa código ni datos reales de Walmart.
