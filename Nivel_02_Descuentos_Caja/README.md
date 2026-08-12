@@ -1,6 +1,6 @@
 # Nivel 02 — Calculadora de descuentos en caja
 
-**Proyecto:** Desafío Walmart Tech
+**Proyecto:** Desafío Walmart Tech CAM
 **Dificultad:** ⭐☆☆☆☆ Básico
 
 ---
