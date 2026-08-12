@@ -1,13 +1,13 @@
 # Nivel 03 — Control de inventario básico
 
-**Proyecto:** Desafío Walmart Tech
+**Proyecto:** Desafío Walmart Tech CAM
 **Dificultad:** ⭐☆☆☆☆ Básico
 
 ---
 
-## 🛒 La historia: Desafío Walmart Tech
+## 🛒 La historia: Desafío Walmart Tech CAM
 
-Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech**.
+Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech Centroamérica**.
 Su primer proyecto es un programa de entrenamiento de 25 niveles que lo llevará a
 recorrer, en código, toda la cadena de valor de la compañía: primero el piso de venta
 de una tienda, luego el **CEDIS** (Centro de Distribución) de su región, después la
@@ -53,4 +53,4 @@ Reto opcional: agrega una alerta que imprima "⚠️ REABASTECER" para todo prod
 
 ---
 **Elaborado para la comunidad tech.** Este reto es un ejercicio educativo inspirado en
-problemas reales de retail/logística; no representa código ni datos reales de Walmart.
+problemas reales de retail/logística; NO representa código ni datos reales de Walmart.
