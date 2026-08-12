@@ -5,7 +5,7 @@
 
 ---
 
-## 🛒 La historia: Desafío Walmart Tech
+## 🛒 La historia: Desafío Walmart Tech CAM
 
 Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech Centroamérica**.
 Su primer proyecto es un programa de entrenamiento de 25 niveles que lo llevará a
