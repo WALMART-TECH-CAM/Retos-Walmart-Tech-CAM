@@ -52,4 +52,4 @@ Reto opcional: cuenta e imprime cuántos empleados quedaron en cada turno usando
 
 ---
 **Elaborado para la comunidad tech.** Este reto es un ejercicio educativo inspirado en
-problemas reales de retail/logística; no representa código ni datos reales de Walmart.
+problemas reales de retail/logística; NO representa código ni datos reales de Walmart.
