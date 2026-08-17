@@ -16,7 +16,7 @@ a nivel nacional.
 
 Cada nivel es un reto independiente (su propio `Main.java` y `README.md`), pero todos
 comparten el mismo hilo narrativo y el mismo objetivo: ayudar a Alex a resolver un
-problema real de Walmart Global Tech CAM usando Java.
+problema real de Walmart Global Tech Centroamérica usando Java.
 
 
 ## 📍 Contexto de este nivel
