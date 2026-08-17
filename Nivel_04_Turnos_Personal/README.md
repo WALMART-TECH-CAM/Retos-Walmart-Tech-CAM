@@ -5,7 +5,7 @@
 
 ---
 
-## 🛒 La historia: Desafío Walmart Tech
+## 🛒 La historia: Desafío Walmart Tech CAM
 
 Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech Centroamérica**.
 Su primer proyecto es un programa de entrenamiento de 25 niveles que lo llevará a
@@ -16,7 +16,7 @@ a nivel nacional.
 
 Cada nivel es un reto independiente (su propio `Main.java` y `README.md`), pero todos
 comparten el mismo hilo narrativo y el mismo objetivo: ayudar a Alex a resolver un
-problema real de Walmart Global Tech usando Java.
+problema real de Walmart Global Tech Centroamérica usando Java.
 
 
 ## 📍 Contexto de este nivel
