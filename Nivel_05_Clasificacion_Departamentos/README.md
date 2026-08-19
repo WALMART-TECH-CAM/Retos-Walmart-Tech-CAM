@@ -1,13 +1,13 @@
 # Nivel 05 — Clasificación de productos por departamento
 
-**Proyecto:** Desafío Walmart Tech
+**Proyecto:** Desafío Walmart Tech Centroamérica
 **Dificultad:** ⭐⭐☆☆☆ Básico-Intermedio
 
 ---
 
-## 🛒 La historia: Desafío Walmart Tech
+## 🛒 La historia: Desafío Walmart Tech CAM
 
-Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech**.
+Alex acaba de ser contratado como desarrollador junior en **Walmart Global Tech Centroamérica**.
 Su primer proyecto es un programa de entrenamiento de 25 niveles que lo llevará a
 recorrer, en código, toda la cadena de valor de la compañía: primero el piso de venta
 de una tienda, luego el **CEDIS** (Centro de Distribución) de su región, después la
@@ -16,7 +16,7 @@ a nivel nacional.
 
 Cada nivel es un reto independiente (su propio `Main.java` y `README.md`), pero todos
 comparten el mismo hilo narrativo y el mismo objetivo: ayudar a Alex a resolver un
-problema real de Walmart Global Tech usando Java.
+problema real de Walmart Global Tech Centroamérica usando Java.
 
 
 ## 📍 Contexto de este nivel
@@ -55,4 +55,4 @@ Reto opcional: agrega el código 6 -> "Ropa y Textiles" y el código 7 -> "Farma
 
 ---
 **Elaborado para la comunidad tech.** Este reto es un ejercicio educativo inspirado en
-problemas reales de retail/logística; no representa código ni datos reales de Walmart.
+problemas reales de retail/logística; NO representa código ni datos reales de Walmart.
