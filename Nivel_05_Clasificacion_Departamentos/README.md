@@ -55,4 +55,4 @@ Reto opcional: agrega el código 6 -> "Ropa y Textiles" y el código 7 -> "Farma
 
 ---
 **Elaborado para la comunidad tech.** Este reto es un ejercicio educativo inspirado en
-problemas reales de retail/logística; NO representa código ni datos reales de Walmart.
+problemas reales de retail/logística; NO representa código ni datos reales de Walmart .
